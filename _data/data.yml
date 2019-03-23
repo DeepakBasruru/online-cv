@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Adarsh N
-    tagline: A Tech Enthusiast, Traveller, Writer and Photographer.
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Deepak
+    tagline:
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adarshkannada@gmail.com
-    phone: 9538591263
+    email: deepakbasruru@gmail.com
+    phone: 9743349308
     website: acchakannada.com #do not add http://
     linkedin: 
-    github: adarshkannada
+    github: deepakbasruru
     gitlab:
     bitbucket:
     twitter: 
@@ -31,30 +31,17 @@ sidebar:
       - idiom: English
         level: Intermediate
 
-      - idiom: Hindi
-        level: Intermediate
-
-      - idiom: Tulu
-        level: Beginner
-
     interests:
-      - item: Traveling
-        link: chittaara.com
 
       - item: Writing
         link: acchakannada.com
 
-      - item: Photography
-        link: chittaara.com
-
-      - item: Coin Collection
-
       - item: Kannada Literature 
 
 career-profile:
-    title: Quality Assurance Engineer
+    title: Senior Software Engineer
     summary: |
-       I have 5 years of experience as a QA Engineer. I have extensively worked
+       I have 4.5 years of experience as a Software Developer. I have extensively worked
        in applications for the Banking and Financial Sectors. I have worked on 
        Applications for Core Banking, Document Workflow Solutions and also for Stock Market Sectors.
 
@@ -64,8 +51,8 @@ education:
       time: 2009 - 2013
       details: |
 
-    - degree: PUC in PCMCs
-      university: BHS First Grade College
+    - degree: PUC in PCMB
+      university: Govt College, Bidkalkatte
       time: 2007 - 2009
       details: |
 
@@ -142,8 +129,8 @@ skills:
         level: 70%
 
 Additional-Information:
-      - title: Additional-Information
-      - intro: Also involved in Alpha and Beta testing of Android apps and Android custom roms.
+      title: Additional-Information
+      intro: Also involved in Alpha and Beta testing of Android apps and Android custom roms.
 
 footer: >
-    Adarsha
+    Deepak Basruru
